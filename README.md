@@ -83,7 +83,7 @@ As the **Founder & CEO** of **KRIP Artificial Intelligence Tech**, I am scaling 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabeshdahal-official&label=SYSTEM%20ACCESS%20LOGS&color=00f2fe&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=prabeshdahal-official&label=PROFILE%20VIEWS&color=00f2fe&style=flat-square" />
 </p>
 
 <p align="center">
