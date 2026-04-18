@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Prabesh Dahal</h1>
 <p align="center">
-  <b>AI Engineer • Researcher • Founder</b><br>
+  <b>Researcher • Founder</b><br>
   Building ethical, scalable intelligence systems
 </p>
 
