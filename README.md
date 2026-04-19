@@ -1,30 +1,80 @@
-
-# 👋 Hi, I'm Prabesh Dahal
-
-### 🚀 Advanced GitHub Metrics
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prabeshdahal-official&show_icons=true&theme=radical&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true&hide_rank=false&t=20260419053020" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabeshdahal-official&layout=compact&theme=radical&langs_count=20&border_radius=10&hide=html,css&card_width=490&t=20260419053020" />
-</a>
+<!-- HEADER -->
+<h1 align="center">Prabesh Dahal</h1>
+<p align="center">
+  <b>Researcher • Founder</b><br>
+  Building ethical, scalable intelligence systems
 </p>
 
-### 🛠️ Professional Multi-Language Expertise
-| Category | Languages |
-| :--- | :--- |
-| **Data & AI** | Python, R, Julia, MATLAB, Prolog, Lisp |
-| **High Performance** | C++, C, Rust, Go, Scala, Haskell |
-| **Full Stack** | JavaScript, TypeScript, Java, Swift, Kotlin, Dart |
-| **System Ops** | Shell (Bash), PowerShell |
+<p align="center">
+  <a href="https://prabeshdahal.info.np">Website</a> •
+  <a href="https://github.com/prabeshdahal-official">GitHub</a> •
+  <a href="mailto:contact@kripaitech.com.np">Email</a>
+</p>
 
 ---
 
-### 🏆 Achievements
-* **Polyglot Developer:** Actively maintaining projects in 20+ languages.
-* **Automation Architect:** Scaling repository health via AI-integrated workflows.
-* **Open Source Contributor:** Focused on ethical AI and high-performance computing.
+## 👨‍💻 About Me
+
+I work at the intersection of **Artificial Intelligence, systems engineering, and education technology**.  
+As the Founder of **KRIP AI Tech**, I focus on building platforms that are **practical, scalable, and ethically aligned**.
+
+- 🚀 Scaling platforms used by **50,000+ users**
+- 🧠 Focused on **Neural Networks, LLMs, and AI Systems**
+- 🎓 50+ certifications (Microsoft & industry)
+- ✍️ Writing on the future of **Human–AI interaction**
 
 ---
-*Last Profile Sync: 2026-04-19 05:30:20 UTC*
+
+## 🧠 Current Focus
+
+- AI Systems & Architecture  
+- Large Language Models (LLMs)  
+- AI Governance & Ethics  
+- EdTech Infrastructure  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,react,js,mongodb,docker,aws,azure,linux,github" />
+</p>
+
+---
+
+## 📌 Featured Work
+
+### 🔹 KRIP AI Tech
+AI-powered EdTech platform designed for scalable learning systems.
+
+### 🔹 The Last Human Protocol
+A conceptual framework exploring **ethics in a post-AGI world**.
+
+### 🔹 AI Learning Systems
+Projects focused on **automation, intelligence pipelines, and real-world AI deployment**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabeshdahal-official" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p>
+  <a href="https://prabeshdahal.info.np">🌐 Website</a><br>
+  <a href="https://github.com/prabeshdahal-official">💻 GitHub</a><br>
+  <a href="mailto:contact@kripaitech.com.np">📧 Email</a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=prabeshdahal-official&label=Profile%20Views&style=flat" />
+</p>
